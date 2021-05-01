@@ -1,0 +1,12 @@
+C:\Users\VICTOR\source\repos\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.dll
+C:\Users\VICTOR\source\repos\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csprojAssemblyReference.cache
+C:\Users\VICTOR\source\repos\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfoInputs.cache
+C:\Users\VICTOR\source\repos\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfo.cs
+C:\Users\VICTOR\source\repos\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.deps.json
+C:\Users\VICTOR\source\repos\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Users\VICTOR\source\repos\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Users\VICTOR\source\repos\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.pdb
+C:\Users\VICTOR\source\repos\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\source\repos\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CopyComplete
+C:\Users\VICTOR\source\repos\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Users\VICTOR\source\repos\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
